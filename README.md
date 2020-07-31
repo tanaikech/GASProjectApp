@@ -63,6 +63,8 @@ I sincerely hope this library is useful for you.
 
 [You can read more about libraries in Apps Script here](https://developers.google.com/apps-script/guide_libraries).
 
+Please use this library with enabling V8 runtime.
+
 ## Enable Drive API
 
 In this library, Drive API is used. So [please enable Drive API at Advanced Google services](https://developers.google.com/apps-script/guides/services/advanced#enabling_advanced_services).
